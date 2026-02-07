@@ -1,4 +1,7 @@
 #NationGame
+
+(THIS DOCUMENT WILL BE AVALIBLE ON THE ACTUAL RELEASE)
+
 Technical Architecture, Distribution, and Policy Documentation
 1. Introduction
 
